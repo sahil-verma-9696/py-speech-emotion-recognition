@@ -1,0 +1,401 @@
+file_path,emotion_name,spoken_text
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-05.wav,anger,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-08.wav,anger,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-06.wav,anger,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-01.wav,anger,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-02.wav,anger,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-07.wav,anger,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-09.wav,anger,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-03.wav,anger,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-04.wav,anger,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/anger/1.1.anger-10.wav,anger,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-08.wav,disgust,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-04.wav,disgust,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-03.wav,disgust,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-02.wav,disgust,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-01.wav,disgust,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-06.wav,disgust,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-05.wav,disgust,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-09.wav,disgust,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-10.wav,disgust,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/disgust/1.1.disgust-07.wav,disgust,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-01.wav,fear,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-04.wav,fear,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-02.wav,fear,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-03.wav,fear,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-05.wav,fear,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-07.wav,fear,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-06.wav,fear,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-09.wav,fear,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-08.wav,fear,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/fear/1.1.fear-10.wav,fear,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-05.wav,surprise,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-04.wav,surprise,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-01.wav,surprise,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-02.wav,surprise,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-03.wav,surprise,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-06.wav,surprise,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-09.wav,surprise,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-08.wav,surprise,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-10.wav,surprise,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/surprise/1.1.surprise-07.wav,surprise,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-02.wav,sad,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-06.wav,sad,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-05.wav,sad,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-04.wav,sad,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-03.wav,sad,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-01.wav,sad,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-08.wav,sad,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-07.wav,sad,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-09.wav,sad,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sad/1.1.sad-10.wav,sad,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-06.wav,sarcastic,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-07.wav,sarcastic,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-02.wav,sarcastic,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-08.wav,sarcastic,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-03.wav,sarcastic,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-10.wav,sarcastic,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-09.wav,sarcastic,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-04.wav,sarcastic,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-01.wav,sarcastic,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/sarcastic/1.1.sarcastic-05.wav,sarcastic,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-07.wav,happy,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-03.wav,happy,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-09.wav,happy,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-08.wav,happy,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-05.wav,happy,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-10.wav,happy,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-04.wav,happy,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-01.wav,happy,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-06.wav,happy,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/happy/1.1.happy-02.wav,happy,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-01.wav,neutral,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-10.wav,neutral,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-02.wav,neutral,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-03.wav,neutral,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-05.wav,neutral,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-09.wav,neutral,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-06.wav,neutral,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-04.wav,neutral,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-08.wav,neutral,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session1/neutral/1.1.neutral-07.wav,neutral,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-06.wav,happy,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-04.wav,happy,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-01.wav,happy,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-09.wav,happy,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-10.wav,happy,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-08.wav,happy,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-03.wav,happy,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-07.wav,happy,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-05.wav,happy,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/happy/1.4.happy-02.wav,happy,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-01.wav,surprise,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-02.wav,surprise,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-10.wav,surprise,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-05.wav,surprise,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-09.wav,surprise,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-04.wav,surprise,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-07.wav,surprise,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-08.wav,surprise,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-03.wav,surprise,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/surprise/1.4.surprise-06.wav,surprise,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-09.wav,sarcastic,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-05.wav,sarcastic,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-04.wav,sarcastic,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-10.wav,sarcastic,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-02.wav,sarcastic,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-06.wav,sarcastic,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-08.wav,sarcastic,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-01.wav,sarcastic,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-07.wav,sarcastic,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sarcastic/1.4.sarcastic-03.wav,sarcastic,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-06.wav,anger,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-01.wav,anger,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-04.wav,anger,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-08.wav,anger,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-02.wav,anger,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-10.wav,anger,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-07.wav,anger,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-09.wav,anger,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-03.wav,anger,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/anger/1.4.anger-05.wav,anger,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-01.wav,neutral,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-02.wav,neutral,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-06.wav,neutral,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-07.wav,neutral,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-08.wav,neutral,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-03.wav,neutral,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-05.wav,neutral,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-10.wav,neutral,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-04.wav,neutral,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/neutral/1.4.neutral-09.wav,neutral,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-02.wav,fear,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-03.wav,fear,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-01.wav,fear,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-04.wav,fear,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-05.wav,fear,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-09.wav,fear,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-06.wav,fear,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-08.wav,fear,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-07.wav,fear,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/fear/1.4.fear-10.wav,fear,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-02.wav,sad,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-06.wav,sad,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-03.wav,sad,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-07.wav,sad,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-01.wav,sad,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-05.wav,sad,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-04.wav,sad,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-10.wav,sad,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-08.wav,sad,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/sad/1.4.sad-09.wav,sad,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-03.wav,disgust,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-01.wav,disgust,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-09.wav,disgust,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-06.wav,disgust,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-04.wav,disgust,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-02.wav,disgust,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-10.wav,disgust,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-05.wav,disgust,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-08.wav,disgust,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session4/disgust/1.4.disgust-07.wav,disgust,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-04.wav,anger,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-03.wav,anger,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-06.wav,anger,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-01.wav,anger,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-07.wav,anger,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-05.wav,anger,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-02.wav,anger,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-08.wav,anger,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-10.wav,anger,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/anger/1.5.anger-09.wav,anger,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-07.wav,disgust,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-05.wav,disgust,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-04.wav,disgust,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-03.wav,disgust,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-08.wav,disgust,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-01.wav,disgust,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-10.wav,disgust,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-09.wav,disgust,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-02.wav,disgust,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/disgust/1.5.disgust-06.wav,disgust,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-07.wav,happy,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-05.wav,happy,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-06.wav,happy,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-04.wav,happy,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-02.wav,happy,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-03.wav,happy,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-01.wav,happy,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-08.wav,happy,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-10.wav,happy,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/happy/1.5.happy-09.wav,happy,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-02.wav,fear,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-01.wav,fear,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-03.wav,fear,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-09.wav,fear,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-06.wav,fear,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-07.wav,fear,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-05.wav,fear,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-10.wav,fear,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-08.wav,fear,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/fear/1.5.fear-04.wav,fear,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-07.wav,neutral,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-01.wav,neutral,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-10.wav,neutral,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-06.wav,neutral,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-05.wav,neutral,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-03.wav,neutral,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-04.wav,neutral,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-09.wav,neutral,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-02.wav,neutral,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/neutral/1.5.neutral-08.wav,neutral,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-04.wav,sad,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-01.wav,sad,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-03.wav,sad,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-02.wav,sad,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-08.wav,sad,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-09.wav,sad,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-10.wav,sad,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-07.wav,sad,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-05.wav,sad,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sad/1.5.sad-06.wav,sad,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-09.wav,sarcastic,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-08.wav,sarcastic,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-02.wav,sarcastic,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-03.wav,sarcastic,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-04.wav,sarcastic,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-01.wav,sarcastic,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-07.wav,sarcastic,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-05.wav,sarcastic,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-06.wav,sarcastic,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/sarcastic/1.5.sarcastic-10.wav,sarcastic,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-02.wav,surprise,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-09.wav,surprise,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-05.wav,surprise,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-01.wav,surprise,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-10.wav,surprise,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-08.wav,surprise,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-06.wav,surprise,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-04.wav,surprise,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-07.wav,surprise,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session5/surprise/1.5.surprise-03.wav,surprise,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-05.wav,happy,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-01.wav,happy,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-02.wav,happy,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-09.wav,happy,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-06.wav,happy,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-10.wav,happy,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-08.wav,happy,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-03.wav,happy,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-04.wav,happy,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/happy/1.2.happy-07.wav,happy,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-04.wav,fear,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-03.wav,fear,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-07.wav,fear,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-02.wav,fear,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-06.wav,fear,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-05.wav,fear,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-01.wav,fear,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-08.wav,fear,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-10.wav,fear,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/fear/1.2.fear-09.wav,fear,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-03.wav,sad,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-02.wav,sad,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-07.wav,sad,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-05.wav,sad,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-06.wav,sad,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-01.wav,sad,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-09.wav,sad,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-08.wav,sad,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-04.wav,sad,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sad/1.2.sad-10.wav,sad,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-04.wav,neutral,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-02.wav,neutral,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-03.wav,neutral,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-01.wav,neutral,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-06.wav,neutral,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-08.wav,neutral,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-07.wav,neutral,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-10.wav,neutral,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-05.wav,neutral,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/neutral/1.2.neutral-09.wav,neutral,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-05.wav,anger,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-01.wav,anger,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-09.wav,anger,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-03.wav,anger,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-06.wav,anger,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-04.wav,anger,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-07.wav,anger,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-08.wav,anger,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-02.wav,anger,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/anger/1.2.anger-10.wav,anger,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-01.wav,disgust,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-10.wav,disgust,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-03.wav,disgust,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-06.wav,disgust,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-04.wav,disgust,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-02.wav,disgust,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-05.wav,disgust,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-07.wav,disgust,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-09.wav,disgust,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/disgust/1.2.disgust-08.wav,disgust,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-09.wav,sarcastic,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-01.wav,sarcastic,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-06.wav,sarcastic,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-04.wav,sarcastic,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-08.wav,sarcastic,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-07.wav,sarcastic,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-05.wav,sarcastic,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-10.wav,sarcastic,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-03.wav,sarcastic,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/sarcastic/1.2.sarcastic-02.wav,sarcastic,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-06.wav,surprise,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-02.wav,surprise,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-04.wav,surprise,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-03.wav,surprise,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-01.wav,surprise,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-07.wav,surprise,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-05.wav,surprise,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-10.wav,surprise,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-09.wav,surprise,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session2/surprise/1.2.surprise-08.wav,surprise,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-01.wav,surprise,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-03.wav,surprise,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-02.wav,surprise,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-05.wav,surprise,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-04.wav,surprise,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-09.wav,surprise,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-07.wav,surprise,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-06.wav,surprise,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-10.wav,surprise,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/surprise/1.3.surprise-08.wav,surprise,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-07.wav,fear,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-02.wav,fear,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-01.wav,fear,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-08.wav,fear,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-06.wav,fear,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-09.wav,fear,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-05.wav,fear,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-03.wav,fear,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-04.wav,fear,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/fear/1.3.fear-10.wav,fear,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-05.wav,sarcastic,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-07.wav,sarcastic,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-04.wav,sarcastic,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-02.wav,sarcastic,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-10.wav,sarcastic,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-03.wav,sarcastic,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-08.wav,sarcastic,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-01.wav,sarcastic,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-06.wav,sarcastic,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sarcastic/1.3.sarcastic-09.wav,sarcastic,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-04.wav,anger,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-01.wav,anger,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-06.wav,anger,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-09.wav,anger,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-10.wav,anger,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-05.wav,anger,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-07.wav,anger,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-02.wav,anger,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-03.wav,anger,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/anger/1.3.anger-08.wav,anger,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-05.wav,happy,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-10.wav,happy,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-08.wav,happy,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-01.wav,happy,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-02.wav,happy,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-09.wav,happy,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-06.wav,happy,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-07.wav,happy,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-04.wav,happy,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/happy/1.3.happy-03.wav,happy,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-03.wav,neutral,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-06.wav,neutral,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-05.wav,neutral,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-04.wav,neutral,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-01.wav,neutral,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-02.wav,neutral,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-08.wav,neutral,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-09.wav,neutral,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-10.wav,neutral,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/neutral/1.3.neutral-07.wav,neutral,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-06.wav,sad,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-05.wav,sad,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-02.wav,sad,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-01.wav,sad,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-07.wav,sad,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-09.wav,sad,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-04.wav,sad,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-10.wav,sad,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-08.wav,sad,विद्यार्थियों को ईमानदार होना चाहिए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/sad/1.3.sad-03.wav,sad,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-02.wav,disgust,गणित का प्रश्न पत्र कठिन था।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-01.wav,disgust,सूरज एक अच्छा विद्यार्थी है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-03.wav,disgust,मुझे अच्छे अंक लाने हैं।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-09.wav,disgust,आप सभी मन लगाकर पढ़िए।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-05.wav,disgust,विद्यार्थी आंदोलन कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-04.wav,disgust,रीना पढ़ाई में सबकी मदद करती है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-06.wav,disgust,मैंने यह पाठ पूरा नहीं पढ़ा है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-10.wav,disgust,विद्यार्थी परिणाम का इंतजार कर रहे थे।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-07.wav,disgust,अच्छा विद्यार्थी अहंकार से दूर रहता है।
+/content/drive/MyDrive/dataset/my Dataset/1/session3/disgust/1.3.disgust-08.wav,disgust,विद्यार्थियों को ईमानदार होना चाहिए।
